@@ -1,4 +1,4 @@
-class Person {
+class Pjmk {
   late String fullName;
   late String email;
   late String phoneNumber;
@@ -8,7 +8,7 @@ class Person {
   late String password;
 
 
-  Person({
+  Pjmk({
     required this.fullName,
     required this.email,
     required this.phoneNumber,
